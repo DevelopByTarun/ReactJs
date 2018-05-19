@@ -5,10 +5,10 @@
 ];
 module.exports = function (req, res) {
   res.writeHead(200, {
-    'Content-Type': 'text/json',
-     'Access-Control-Allow-Origin' : '*',
-     'Access-Control-Allow-Methods': 'GET'
-  });
+    'Content-Type': 'text/plain',
+    'Access-Control-Allow-Origin' : '*',
+    'Access-Control-Allow-Methods': 'GET'
+    });
   res.end();
 };
 

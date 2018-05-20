@@ -1,5 +1,5 @@
 {
-  
+  [
   {
     "id":1,"name":"Apple 5s","price":20000,"shipping":"China","vendor":"Apple Stores","inStock":"Y","image":"https://assets.ec.quoracdn.net/main-thumb-t-965-200-eskvgzdvwmrcnhylzyjaqfmpsjlrazhl.jpeg"
   },
@@ -11,5 +11,5 @@
   {
     "id":2,"name":"Nokia ","price":10000,"shipping":"India","vendor":"Nokia Stores","inStock":"N","image":"http://cdn-a2.buildabazaar.com/img/othe/5501214/75/86/nokialumia630dualsimyellow.jpg.784cf17586.999x200x200.jpg"
   }
-  
-};
+  ] 
+}
